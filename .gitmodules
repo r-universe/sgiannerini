@@ -8,3 +8,8 @@
 	url = https://github.com/sgiannerini/tseriesentropy
 	shallow = true
 	registered = true
+[submodule "tseriesTARMA"]
+	path = tseriesTARMA
+	url = https://github.com/cran/tseriesTARMA
+	shallow = true
+	registered = true
