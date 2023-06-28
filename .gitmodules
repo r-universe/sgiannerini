@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "tseriesEntropy"]
 	path = tseriesEntropy
 	url = https://github.com/sgiannerini/tseriesentropy
-	shallow = true
-	registered = true
 [submodule "tseriesTARMA"]
 	path = tseriesTARMA
 	url = https://github.com/cran/tseriesTARMA
-	shallow = true
-	registered = true
