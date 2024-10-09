@@ -5,6 +5,3 @@
 [submodule "tseriesEntropy"]
 	path = tseriesEntropy
 	url = https://github.com/sgiannerini/tseriesentropy
-[submodule "tseriesTARMA"]
-	path = tseriesTARMA
-	url = https://github.com/cran/tseriesTARMA
